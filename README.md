@@ -1,6 +1,6 @@
 # tracker_changes_SQL
 
-The project by create trigers in the database with logger the changes in the tables in database
+The project by create trigers in the database with logger the changes in the tables in database, the primary key is needed in the table to log
 
 The table with the register changes is 'TrackLog'
 
